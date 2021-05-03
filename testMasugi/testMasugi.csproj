@@ -78,6 +78,9 @@
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PlusReaction.resx">
+      <DependentUpon>PlusReaction.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PlusThread.resx">
       <DependentUpon>PlusThread.cs</DependentUpon>
     </EmbeddedResource>
