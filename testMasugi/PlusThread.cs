@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace testMasugi
 {
-    public partial class Form2 : Form
+    public partial class PlusThread : Form
     {
-        public Form2()
+        public PlusThread()
         {
             InitializeComponent();
         }
@@ -22,7 +22,7 @@ namespace testMasugi
 
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

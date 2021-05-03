@@ -61,9 +61,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(258, 173);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(71, 18);
+            this.label2.Size = new System.Drawing.Size(125, 18);
             this.label2.TabIndex = 3;
-            this.label2.Text = "ニュース1";
+            this.label2.Text = "ニュース1（件名）";
             // 
             // label3
             // 

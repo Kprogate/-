@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace testMasugi
 {
-    public partial class Form2 : Form
+    public partial class PlusReaction : Form
     {
-        public Form2()
+        public PlusReaction()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
