@@ -1,6 +1,6 @@
 ﻿namespace testMasugi
 {
-    partial class Form1
+    partial class room_detail
     {
         /// <summary>
         /// 必要なデザイナー変数です。

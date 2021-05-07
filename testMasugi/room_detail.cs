@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace testMasugi
 {
-    public partial class Form3 : Form
+    public partial class room_detail : Form
     {
-        public Form3()
+        public room_detail()
         {
             InitializeComponent();
         }
 
-        private void Form3_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
             //フォームが最大化されないようにする
             this.MaximizeBox = false;

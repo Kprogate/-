@@ -1,6 +1,6 @@
 ﻿namespace testMasugi
 {
-    partial class Form3
+    partial class link
     {
         /// <summary>
         /// Required designer variable.

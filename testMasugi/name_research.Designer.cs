@@ -1,6 +1,6 @@
 ﻿namespace testMasugi
 {
-    partial class Form2
+    partial class name_research
     {
         /// <summary>
         /// Required designer variable.
