@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace testMasugi
 {
-    public partial class main : Form
+    public partial class main_form : Form
     {
-        public main()
+        public main_form()
         {
             InitializeComponent();
         }
