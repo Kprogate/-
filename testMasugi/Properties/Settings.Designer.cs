@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace testMasugi.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 

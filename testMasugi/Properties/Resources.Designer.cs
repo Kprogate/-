@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace testMasugi.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace testMasugi.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("testMasugi.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WindowsFormsApp1.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -52,7 +52,7 @@ namespace testMasugi.Properties
         }
 
         /// <summary>
-        ///   厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+        ///   すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
         ///   現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
